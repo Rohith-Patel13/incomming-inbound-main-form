@@ -55,7 +55,7 @@ const FormV2 = () => {
 
 
     try {
-      const scriptURL = "https://script.google.com/macros/s/AKfycbyZQqVdQmHpv3S32tMHjfx9z-dFqUC8p7FhWDDguYCrXgeE9QC8D-HU_n-BAmjmHYFvTw/exec"
+      const scriptURL = "https://script.google.com/macros/s/AKfycbz7npz1mLdugu-uRpTRfkzdRKrios00tHeFyYqeSqZjtIWs5jhgHVnAs6hNkm_NNvpUNg/exec"
         // "https://script.google.com/macros/s/AKfycbyJvS2g5_sDRcSfN3Y4NJFygGnGMj0hrF3_RB0pTiCy9pZiH-Gc1GUjXF2u8DQsksOhrA/exec";
 
       const formData = new FormData();

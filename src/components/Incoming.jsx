@@ -66,8 +66,8 @@ const FormV2 = () => {
       formData.append(key, formObject[key]);
     }  
     try {
-      const scriptURL =
-        "https://script.google.com/macros/s/AKfycbxJOXvWFH_LKg5fjGYXYkwXI-TKJyIzv_c7wMjhRSowKZGBv5ufWoySW6xBaopKHi-xSw/exec";
+      const scriptURL ="https://script.google.com/macros/s/AKfycbz7npz1mLdugu-uRpTRfkzdRKrios00tHeFyYqeSqZjtIWs5jhgHVnAs6hNkm_NNvpUNg/exec"
+        //"https://script.google.com/macros/s/AKfycbxJOXvWFH_LKg5fjGYXYkwXI-TKJyIzv_c7wMjhRSowKZGBv5ufWoySW6xBaopKHi-xSw/exec";
 
 
         const response = await fetch(scriptURL, {
